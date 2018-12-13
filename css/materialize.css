@@ -9068,3 +9068,14 @@ input[type=range]::-ms-thumb {
 .slogan{
   padding: 60px 0px 0px 0px;
 }
+.imagen{
+  width: 50% !important;
+  float: left !important;
+  padding: 5px;
+}
+.post{
+  padding: 15px;
+}
+.iconos{
+  vertical-align: middle !important;
+}
